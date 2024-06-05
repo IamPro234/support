@@ -46,7 +46,7 @@
 * **/baltop** — display the richest players
 * **/bounty** — display bounty information
 * **/ch**, **/challenge**, or **/challenges** — open the Challenge GUI
-* **/clearentities** — clear excess entities
+* **/clearentities** — clear excess entities (Removed)
 * **/dch**, **/dailychallenge**‚ or **/dailychallenges** — open the Daily Challenge UI
 * **/el** or **/enchantlist** — list of available enchantments
 * **/is** or **/island** — open the island GUI
@@ -54,12 +54,12 @@
 * **/pay** — pay using money from your purse
 * **/pv** or **/privatevault** — opens your private vault
 * **/pvp** — teleport to the PvP Arena
-* **/rename** — rename the item in your hand
+* **/rename** — rename the item in your hand (Need Ranks)
 * **/repair** — repair the item in your hand
 * **/sell** — sell your items
 * **/shop** — open the shop GUI
 * **/tpa** — teleport to a player
-* **/trade** — perform a trade
+* **/trade** — perform a trade (Removed)
 * **/withdraw** — withdraw money from your bank
 * **/fly** (Legend+) — enable flying
 * **/feed** (Legend+) — feed yourself when not combat-tagged
